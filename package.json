@@ -1,7 +1,7 @@
 {
   "name": "projadmin",
   "version": "1.0.0",
-  "description": "SProject admin Page Application using Gulp and AngularJS",
+  "description": "Project admin Page Application using Gulp and AngularJS",
   "main": "gulpfile.js",
   "keywords": [
     "gulp",
