@@ -258,7 +258,7 @@ gulp.task('scripts-app', ['docs-js'], function() {
       verbose: true,
       // disable or change rules
       "requireTrailingComma": null,
-      "validateLineBreaks": "CRLF",
+      "validateLineBreaks": "LF",
       "disallowTrailingWhitespace": null,
       "maximumLineLength": 120,
       "disallowMultipleVarDecl": null
